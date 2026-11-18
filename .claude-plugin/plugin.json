@@ -1,0 +1,11 @@
+{
+  "name": "branch-sweeper",
+  "version": "0.2.0",
+  "description": "Clean up local git branches already merged into production, with AI summaries, two-step approval, and zero impact on origin.",
+  "author": {
+    "name": "praveenmalakar"
+  },
+  "repository": "https://github.com/PraveenMalakar1/branch-sweeper",
+  "license": "MIT",
+  "keywords": ["git", "branches", "cleanup"]
+}
