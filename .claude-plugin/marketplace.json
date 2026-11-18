@@ -1,0 +1,15 @@
+{
+  "name": "branch-sweeper",
+  "description": "Claude Code plugins for safe git housekeeping.",
+  "owner": {
+    "name": "praveenmalakar"
+  },
+  "plugins": [
+    {
+      "name": "branch-sweeper",
+      "source": "./",
+      "description": "Clean up local git branches already merged into production, with AI summaries, two-step approval, and zero impact on origin.",
+      "version": "0.2.0"
+    }
+  ]
+}
